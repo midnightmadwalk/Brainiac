@@ -1,0 +1,3 @@
+pyrogram
+mysql-connector-python
+tgcrypto
